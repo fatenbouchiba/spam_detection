@@ -7,10 +7,8 @@ This project involves building a machine learning model to detect spam emails fr
 The project is organized as follows:
 
 - `data/`: Contains the dataset used for spam classification (e.g., `spam_data.csv`).
-- `notebooks/`: Jupyter notebooks with code for data exploration, model training, and evaluation.
-- `src/`: Python scripts for preprocessing data, feature extraction, training models, and evaluating results.
+- `notebooks/`: Colab notebooks with code for data exploration, model training, and evaluation.
 - `requirements.txt`: List of dependencies required to run the project.
-- `.gitignore`: Files and directories to be ignored by Git (e.g., temporary files, large datasets).
 - `README.md`: Project description and instructions.
 - `LICENSE`: License for the project.
 
